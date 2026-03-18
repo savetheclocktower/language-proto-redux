@@ -2,7 +2,7 @@
   "name": "language-proto-redux",
   "main": "./lib/main",
   "version": "0.0.1",
-  "description": "A short description of your package",
+  "description": "Protobuf language support in Pulsar (with Tree-sitter)",
   "keywords": [
     "tree-sitter",
     "grammar"
