@@ -1,7 +1,7 @@
 {
   "name": "language-proto-redux",
   "main": "./lib/main",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Protobuf language support in Pulsar (with Tree-sitter)",
   "keywords": [
     "tree-sitter",
