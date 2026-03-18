@@ -1,0 +1,6 @@
+'.source.proto':
+  editor:
+    commentStart: '// '
+    commentDelimiters:
+      block: ['/*', '*/']
+      line: '//'

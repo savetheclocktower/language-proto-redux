@@ -1,0 +1,29 @@
+{
+  "name": "language-proto-redux",
+  "main": "./lib/main",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+    "tree-sitter",
+    "grammar"
+  ],
+  "repository": "https://github.com/savetheclocktower/language-proto-redux",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  },
+  "consumedServices": {
+    "hyperlink.injection": {
+      "versions": {
+        "0.1.0": "consumeHyperlinkInjection"
+      }
+    },
+    "todo.injection": {
+      "versions": {
+        "0.1.0": "consumeTodoInjection"
+      }
+    }
+  }
+}
